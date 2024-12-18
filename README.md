@@ -1,5 +1,4 @@
 # Carbon_Calculator
-# Carbon_Calculator
 
 Carbon Footprint Monitoring Tool using python
 
