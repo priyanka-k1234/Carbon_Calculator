@@ -3,7 +3,7 @@
 
 Carbon Footprint Monitoring Tool using python
 
-This GitHub repository contains the code for a Carbon Footprint Monitoring Tool developed in Python. The tool allows users to input data related to energy usage, waste emissions, and business travel, and calculates their carbon emissions in kilograms of CO2. The program provides options to calculate carbon emissions for each category individually or all together, generating a pie chart visualization to represent the carbon emissions breakdown.
+This GitHub repository contains the code for a Carbon Footprint Monitoring Tool developed in Python. The tool allows users to input data related to energy usage, waste emissions, and business travel, and calculates their carbon emissions in kilograms of CO2. The program provides options to calculate carbon emissions for each category individually or all together, generating a bar chart visualization to represent the carbon emissions breakdown.
 
 The tool utilizes a class called "CarbonCalculator" which handles the input validation and performs the necessary calculations. It also includes a function called "generate_pie_chart" that generates the pie chart using the Matplotlib library.
 
