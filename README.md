@@ -16,7 +16,7 @@ This project is a desktop application built with Python and the `customtkinter` 
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/carbon_footprint_calculator.git
+   git clone    https://github.com/priyanka-k1234/Carbon_Calculator.git
    cd carbon_footprint_calculator
    
 2. **Create a Virtual Enviornment:**
