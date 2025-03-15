@@ -1,0 +1,4 @@
+# requirements.txt
+customtkinter==5.2.2
+matplotlib==3.8.0               # For chart plotting
+fpdf2==2.8.2                    # For PDF generation
