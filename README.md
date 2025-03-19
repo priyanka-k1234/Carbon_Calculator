@@ -39,4 +39,7 @@ This project is a desktop application built with Python and the `customtkinter` 
 
 6. **Run the Application:**
    ```sh
-   python main.py   
+   python main.py
+
+ 7. ** Username and password:**
+     Username: admin and password : password
